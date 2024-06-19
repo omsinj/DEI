@@ -67,8 +67,9 @@ DEI Resource Page
                                              +------------+------------+
                                              |       Back-End          |
                                              |-------------------------|
-                                             |  Node.js with Express.js|
-                                             +------------+------------+
+                                             |  python, flask/Django,DB|
+                                             +------------+------------
++
                                                           |
                                                           v
                                    +----------------------+----------------------+
@@ -94,6 +95,81 @@ DEI Resource Page
                                           +---------------+----------------+
                                           |     Analytics and Monitoring    |
                                           +---------------------------------+
+
+Frontend:
+
+HTML/CSS/JavaScript: Responsible for the presentation layer, user interface components, and interactivity.
+React/Vue.js: Frontend frameworks for building dynamic single-page applications (SPAs).
+Backend:
+
+Python: Backend language for server-side logic and API development.
+Flask/Django: Python web frameworks for handling HTTP requests, routing, and business logic.
+Database (PostgreSQL): Relational database for storing user data, game progress, resource links, and feedback.
+Server:
+
+Hosting: Cloud-based hosting (e.g., AWS EC2, Azure App Service) for deploying the web application.
+Web Server: NGINX or Apache for serving web content and handling HTTP requests.
+APIs:
+
+RESTful APIs: Used for communication between frontend and backend services.
+Authentication: OAuth or JWT for user authentication and authorization.
+External Services:
+
+Video Hosting: Integration with video platforms (e.g., YouTube API) for hosting and streaming simulation videos.
+Content Delivery Networks (CDNs): For efficient content delivery, especially for videos and static assets.
+Security:
+
+HTTPS: Secure communication protocol to protect user data.
+Data Encryption: Encrypting sensitive data stored in the database.
+User Authentication: OAuth/OpenID for secure login and session management.
+Visualization of User Journey
+1. Homepage
+User Action: User lands on the homepage.
+Navigation: Chooses between "Trivia Game," "Simulation," or "Resources."
+Goal: Start exploring the selected part of the platform.
+2. Cultural Trivia Game
+Landing Page:
+
+User Action: Selects a thematic scenario (e.g., Women In Tech).
+Goal: Begin playing the trivia game.
+Gameplay Page:
+
+User Action: Answers trivia questions, progresses through levels.
+Feedback: Receives immediate feedback on answers.
+Goal: Reach level 20 and receive a certificate.
+Completion Page:
+
+User Action: Views and shares certificate (optional).
+Goal: Achievement of completing the game.
+3. Immersive Interactive Section
+Selection Page:
+
+User Action: Chooses difficulty level (e.g., Intermediate).
+Goal: Start interactive video session.
+Video Viewing Page:
+
+User Action: Watches interactive video.
+Interaction: Answers questions related to the video.
+Feedback: Receives immediate feedback on answers.
+Goal: Complete video session and earn rewards (badges, points).
+Reward Page:
+
+User Action: Views earned rewards and options to proceed.
+Goal: Reflect on progress and consider further engagement.
+4. DEI Resources Hub
+Main Page:
+
+User Action: Navigates to "Resources" section.
+Goal: Explore curated links and information.
+Resource Pages:
+
+User Action: Clicks on a resource category (e.g., Articles).
+Interaction: Views list of resources, filters by interest.
+Goal: Find relevant DEI resources and engage with content.
+Feedback Form:
+
+User Action: Provides feedback or suggests new resources.
+Goal: Contribute to platform improvement and community engagement.
                                           |      Google Analytics           |
                                           |      Server Logs                |
                                           +---------------------------------+
