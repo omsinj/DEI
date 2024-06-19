@@ -1,0 +1,5 @@
+mkdir cultural-trivia-backend
+cd cultural-trivia-backend
+python -m venv venv
+source venv/bin/activate
+pip install flask psycopg2-binary flask-cors
