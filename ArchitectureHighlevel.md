@@ -1,3 +1,61 @@
+Homepage
+---------------------------------------------------------
+| Logo      | Home | Cultural Trivia | Interactive | DEI |
+---------------------------------------------------------
+|       Welcome to the Platform                       |
+|                                                     |
+|  [Cultural Trivia]  [Interactive Section]  [DEI]    |
+|                                                     |
+---------------------------------------------------------
+|                   Footer Information                |
+---------------------------------------------------------
+
+Cultural Trivia 
+---------------------------------------------------------
+| Logo      | Home | Cultural Trivia | Interactive | DEI |
+---------------------------------------------------------
+|   [Welcome Video]                                    |
+|   [Choose Your Journey: BOLD | VETS | ASPIRE | etc.] |
+|                                                     |
+|   [Question]                                        |
+|   [Answer Options]                                  |
+|   [Progress Bar]                                    |
+---------------------------------------------------------
+|                   Footer Information                |
+---------------------------------------------------------
+
+Immersive Intereactive
+---------------------------------------------------------
+| Logo      | Home | Cultural Trivia | Interactive | DEI |
+---------------------------------------------------------
+|   [Select Level: Beginner | Intermediate | Expert]   |
+|                                                     |
+|   [Simulation Video]                                |
+|   [Question Overlay]                                |
+|   [Reward Display]                                  |
+---------------------------------------------------------
+|                   Footer Information                |
+---------------------------------------------------------
+
+DEI Resource Page
+
+---------------------------------------------------------
+| Logo      | Home | Cultural Trivia | Interactive | DEI |
+---------------------------------------------------------
+|   [Resource Categories]                             |
+|   [Resource Links]                                  |
+|   [Bookmark Feature]                                |
+---------------------------------------------------------
+|                   Footer Information                |
+---------------------------------------------------------
+
+
+
+                                              
+                                              
+                                              
+                                              
+                                              
                                               +----------------------+
                                               |      Front-End       |
                                               |----------------------|
