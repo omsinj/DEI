@@ -1,0 +1,11 @@
+cultural-trivia-backend/
+├── app.py
+├── models.py
+├── routes/
+│   ├── trivia_routes.py
+│   └── user_routes.py
+├── services/
+│   └── trivia_service.py
+├── config.py
+├── requirements.txt
+└── ...
