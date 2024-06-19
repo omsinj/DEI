@@ -1,0 +1,18 @@
+cultural-trivia-game/
+├── public/
+│   ├── index.html
+│   └── ...
+├── src/
+│   ├── components/
+│   │   ├── Header.js
+│   │   ├── HomePage.js
+│   │   ├── TriviaGame.js
+│   │   ├── TriviaQuestion.js
+│   │   └── ...
+│   ├── services/
+│   │   └── api.js
+│   ├── App.js
+│   ├── index.js
+│   └── ...
+├── package.json
+└── ...
