@@ -1,0 +1,117 @@
+User Visits the Platform
+The user opens the web browser and navigates to the platform's URL.
+The platform's homepage loads, displaying the header, main banner, and navigation sections.
+
++-----------------------------------------------------------+
+|   Logo   | Home | Cultural Trivia | Interactive | DEI    |
++-----------------------------------------------------------+
+|               Welcome to the Platform                     |
+|                                                           |
+|  [Play Cultural Trivia] [Enter Simulation] [Check DEI Resources]  |
+|                                                           |
++-----------------------------------------------------------+
+|                    Footer Information                     |
++-----------------------------------------------------------+
+
+User Chooses to Play Cultural Trivia
+The user clicks on "Play Cultural Trivia".
+The platform loads the Cultural Trivia Game page.
+
++-----------------------------------------------------------+
+|   Logo   | Home | Cultural Trivia | Interactive | DEI    |
++-----------------------------------------------------------+
+|   [Welcome Video Narration]                                |
+|   [Choose Your Journey: BOLD | VETS | ASPIRE | Women In Tech | PRIDE] |
+|                                                           |
+|   [Trivia Question]                                       |
+|   [Answer Options]                                        |
+|   [Progress Bar]                                          |
++-----------------------------------------------------------+
+|                    Footer Information                     |
++-----------------------------------------------------------+
+- The user watches the welcome video narration.
+- The user selects a journey (e.g., BOLD).
+- Trivia questions are presented one by one, with a progress bar showing the user's progress.
+- Upon completing all levels, the user receives a certificate of recognition.
+
+
+User Chooses to Enter the Simulation
+- The user clicks on "Enter Simulation".
+- The platform loads the Immersive Interactive Section page.
+
++-----------------------------------------------------------+
+|   Logo   | Home | Cultural Trivia | Interactive | DEI    |
++-----------------------------------------------------------+
+|   [Select Level: Beginner | Intermediate | Expert]        |
+|                                                           |
+|   [Simulation Video Player]                                |
+|   [Interactive Question Overlay]                           |
+|   [Reward Display]                                        |
++-----------------------------------------------------------+
+|                    Footer Information                     |
++-----------------------------------------------------------+
+- The user selects a difficulty level (Beginner, Intermediate, Expert).
+- A simulation video starts playing.
+- Interactive questions appear as overlays during the video.
+- Correct answers reward the user and progress them to the next round of videos.
+
+User Chooses to Check DEI Resources
+- The user clicks on "Check DEI Resources".
+- The platform loads the DEI Resources page.
+
++-----------------------------------------------------------+
+|   Logo   | Home | Cultural Trivia | Interactive | DEI    |
++-----------------------------------------------------------+
+|   [Resource Categories]                                   |
+|   [List of DEI Resources and Links]                        |
+|   [Bookmark Feature]                                      |
++-----------------------------------------------------------+
+|                    Footer Information                     |
++-----------------------------------------------------------+
+
+- The user browses through categorized DEI resources.
+- The user can click on resource links to access articles, videos, and other materials.
+- The user can bookmark resources for later reference.
+
+
+Detailed Animation Flow
+User Visits Homepage
+
+Action: User navigates to the platform URL.
+Backend Process: Server responds with the homepage HTML, CSS, and JavaScript files.
+Front-End Process: Browser renders the homepage with navigation options.
+User Selects "Play Cultural Trivia"
+
+Action: User clicks on "Play Cultural Trivia".
+Backend Process: API request is made to fetch the trivia game data.
+Front-End Process: Cultural Trivia Game page is rendered with welcome video and journey options.
+User Watches Welcome Video and Selects a Journey
+
+Action: User watches the video and selects a journey.
+Backend Process: API request fetches trivia questions for the selected journey.
+Front-End Process: Trivia questions and progress bar are displayed interactively.
+User Completes Trivia and Receives Certificate
+
+Action: User answers questions and completes all levels.
+Backend Process: Server tracks user progress and generates a certificate.
+Front-End Process: Certificate is displayed to the user.
+User Selects "Enter Simulation"
+
+Action: User clicks on "Enter Simulation".
+Backend Process: API request fetches simulation video data.
+Front-End Process: Immersive Interactive Section page is rendered with video player and difficulty options.
+User Watches Simulation and Interacts with Questions
+
+Action: User selects difficulty and watches the video.
+Backend Process: Interactive questions are overlaid based on video timestamps.
+Front-End Process: User answers questions and receives rewards.
+User Selects "Check DEI Resources"
+
+Action: User clicks on "Check DEI Resources".
+Backend Process: API request fetches DEI resource data.
+Front-End Process: DEI Resources page is rendered with categories and links.
+User Browses and Bookmarks Resources
+
+Action: User browses resources and bookmarks preferred ones.
+Backend Process: Bookmarks are saved to the database.
+Front-End Process: User's bookmarked resources are displayed and saved for future reference.
