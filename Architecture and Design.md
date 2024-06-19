@@ -89,8 +89,6 @@ User browses DEI categories.
 User clicks on resource links to access content.
 User bookmarks resources for later reference.
 
-
-
 **Results Needed**
 Part One:
 A fully functional trivia game with level progression and certification.
