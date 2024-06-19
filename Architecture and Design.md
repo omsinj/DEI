@@ -43,5 +43,3 @@ Backend: Python (Flask/Django)
 Database: SQLite/PostgreSQL
 AI/ML: Basic NLP for trivia questions, recommendation systems for content suggestions
 
-
-python coder
